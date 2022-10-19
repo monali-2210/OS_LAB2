@@ -1,0 +1,2 @@
+1. Merge sort using threads
+2. Peterson's 2 process synchronization solution
