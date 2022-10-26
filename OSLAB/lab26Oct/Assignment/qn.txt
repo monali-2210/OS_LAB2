@@ -1,0 +1,6 @@
+1. Producer Consumer problem with a shared buffer of size 5.
+-> Main thread creates 3 producer threads and 3 consmuer threads.
+-> Each consumer thread consumes 4 items, each producer produces 4 items.
+2. During Philosopher's problem with 5 philosophers and 5 chopsticks.
+-> An odd philosopher picks up her/his left chopstick first then right,
+-> An even philosopher picks up her/his right chopstick first then left.
